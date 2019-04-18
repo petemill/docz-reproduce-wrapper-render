@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "devDependencies": {
+    "docz": "^1.0.3",
+    "docz-theme-default": "^1.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
